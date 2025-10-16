@@ -1,1 +1,2 @@
 Final GPG test
+GPG verified
