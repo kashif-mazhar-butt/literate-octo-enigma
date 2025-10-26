@@ -1,2 +1,6 @@
 Final GPG test
 GPG verified
+GPG verified by GitHub
+Verified with correct email
+Verified with correct email
+Verified with correct email
